@@ -17,11 +17,9 @@ Project Files Included
 
 Amazon_Dashboard_Report.pdf – Final PDF with insights & dashboard view
 
-Screenshots/ – Dashboard screenshots
+Screenshots – Dashboard screenshots
 
-Dataset/ – Amazon sales dataset (if provided)
-
-PowerBI.pbix – Dashboard file (optional)
+PowerBI.pbix – Dashboard file 
 
 Dashboard Overview
 
